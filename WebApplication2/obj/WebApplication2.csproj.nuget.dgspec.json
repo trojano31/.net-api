@@ -1,0 +1,76 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/trojan/RiderProjects/WebApplication2/WebApplication2/WebApplication2.csproj": {}
+  },
+  "projects": {
+    "/Users/trojan/RiderProjects/WebApplication2/WebApplication2/WebApplication2.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/trojan/RiderProjects/WebApplication2/WebApplication2/WebApplication2.csproj",
+        "projectName": "WebApplication2",
+        "projectPath": "/Users/trojan/RiderProjects/WebApplication2/WebApplication2/WebApplication2.csproj",
+        "packagesPath": "/Users/trojan/.nuget/packages/",
+        "outputPath": "/Users/trojan/RiderProjects/WebApplication2/WebApplication2/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/trojan/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.1, )",
+              "autoReferenced": true
+            },
+            "Microsoft.Extensions.Options.ConfigurationExtensions": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "MongoDB.Bson": {
+              "target": "Package",
+              "version": "[2.9.1, )"
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.9.1, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

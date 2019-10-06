@@ -1,0 +1,14 @@
+/Users/trojan/RiderProjects/WebApplication2/WebApplication2/bin/Debug/netcoreapp2.1/WebApplication2.deps.json
+/Users/trojan/RiderProjects/WebApplication2/WebApplication2/bin/Debug/netcoreapp2.1/WebApplication2.runtimeconfig.json
+/Users/trojan/RiderProjects/WebApplication2/WebApplication2/bin/Debug/netcoreapp2.1/WebApplication2.runtimeconfig.dev.json
+/Users/trojan/RiderProjects/WebApplication2/WebApplication2/bin/Debug/netcoreapp2.1/WebApplication2.dll
+/Users/trojan/RiderProjects/WebApplication2/WebApplication2/bin/Debug/netcoreapp2.1/WebApplication2.pdb
+/Users/trojan/RiderProjects/WebApplication2/WebApplication2/obj/Debug/netcoreapp2.1/WebApplication2.csprojAssemblyReference.cache
+/Users/trojan/RiderProjects/WebApplication2/WebApplication2/obj/Debug/netcoreapp2.1/WebApplication2.csproj.CoreCompileInputs.cache
+/Users/trojan/RiderProjects/WebApplication2/WebApplication2/obj/Debug/netcoreapp2.1/WebApplication2.RazorAssemblyInfo.cache
+/Users/trojan/RiderProjects/WebApplication2/WebApplication2/obj/Debug/netcoreapp2.1/WebApplication2.RazorAssemblyInfo.cs
+/Users/trojan/RiderProjects/WebApplication2/WebApplication2/obj/Debug/netcoreapp2.1/WebApplication2.AssemblyInfoInputs.cache
+/Users/trojan/RiderProjects/WebApplication2/WebApplication2/obj/Debug/netcoreapp2.1/WebApplication2.AssemblyInfo.cs
+/Users/trojan/RiderProjects/WebApplication2/WebApplication2/obj/Debug/netcoreapp2.1/WebApplication2.RazorTargetAssemblyInfo.cache
+/Users/trojan/RiderProjects/WebApplication2/WebApplication2/obj/Debug/netcoreapp2.1/WebApplication2.dll
+/Users/trojan/RiderProjects/WebApplication2/WebApplication2/obj/Debug/netcoreapp2.1/WebApplication2.pdb
